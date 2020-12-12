@@ -1,3 +1,5 @@
+**Please note** this fork was made to add support for windows. you can use this on linux but you should use [@airbnb/node-memwatch](https://github.com/airbnb/node-memwatch) on any other os
+
 `node-memwatch`: Leak Detection and Heap Diffing for Node.JS
 ============================================================
 

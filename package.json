@@ -1,7 +1,7 @@
 {
-  "name": "@airbnb/node-memwatch",
-  "description": "Keep an eye on your memory usage, and discover and isolate leaks.",
-  "version": "2.0.0",
+  "name": "@floffah/node-memwatch",
+  "description": "Keep an eye on your memory usage, and discover and isolate leaks. Fork to add proper windows support",
+  "version": "3.0.0",
   "author": "Lloyd Hilaiel (http://lloyd.io)",
   "engines": {
     "node": ">= 10.0"
@@ -30,7 +30,8 @@
   "contributors": [
     "Jed Parsons (@jedp)",
     "Jeff Haynie (@jhaynie)",
-    "Justin Matthews (@jmatthewsr-ms)"
+    "Justin Matthews (@jmatthewsr-ms)",
+    "Floffah (@floffah)"
   ],
   "dependencies": {
     "bindings": "^1.5.0",
