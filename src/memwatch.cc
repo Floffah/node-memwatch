@@ -17,7 +17,7 @@
 #include <math.h> // for pow
 #include <time.h> // for time
 // #include <sys/time.h>
-#include <win-time.cc>
+#include "win-time.cc"
 
 using namespace v8;
 using namespace node;
