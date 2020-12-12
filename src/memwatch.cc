@@ -16,8 +16,11 @@
 
 #include <math.h> // for pow
 #include <time.h> // for time
-// #include <sys/time.h>
-#include "win-time.cc"
+#ifdef _WIN32 || _WIN64
+    #include "win-time.cc"
+#else
+    #include <sys/time.h>
+#endif
 
 using namespace v8;
 using namespace node;

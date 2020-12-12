@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82258b6a-b341-4f24-b39b-b486245f75fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/memwatch.cc" beforeDir="false" afterPath="$PROJECT_DIR$/src/memwatch.cc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607777158266</updated>
-      <workItem from="1607777160404" duration="79000" />
+      <workItem from="1607777160404" duration="220000" />
     </task>
     <servers />
   </component>
