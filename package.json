@@ -3,6 +3,7 @@
   "description": "Keep an eye on your memory usage, and discover and isolate leaks. Fork to add proper windows support",
   "version": "3.0.0",
   "author": "Lloyd Hilaiel (http://lloyd.io)",
+  "types": "index.d.ts",
   "engines": {
     "node": ">= 10.0"
   },
